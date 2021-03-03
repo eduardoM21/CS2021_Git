@@ -1,3 +1,3 @@
-//document.getElementById("title").addEventListener("click", function ({
-  //  alert
-//}))
+document.getElementById("title").addEventListener("click", function (){
+    alert("que paso chuy");
+});
