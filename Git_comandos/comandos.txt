@@ -1,0 +1,9 @@
+Comandos Git Bash
+ls -all: Lista todos los archivos
+cd <path>: Moverse al directorio path
+rm <file>: Borra el archivo <file>
+cat <file>: Muestra el contenido de <file>
+nano <file>: Editor de texto para el archivo <file>
+touch <file>: Crear archivo <file>
+mv <file old> <file new>: Mueve archivos o renombra
+rm -rf <file> Borrar directorios carpetas
