@@ -7,3 +7,4 @@ nano <file>: Editor de texto para el archivo <file>
 touch <file>: Crear archivo <file>
 mv <file old> <file new>: Mueve archivos o renombra
 rm -rf <file> Borrar directorios carpetas
+comandos
