@@ -8,3 +8,10 @@ touch <file>: Crear archivo <file>
 mv <file old> <file new>: Mueve archivos o renombra
 rm -rf <file> Borrar directorios carpetas
 comandos
+
+subir trabajo react a git 
+url 
+add -A
+commit -m ""
+git branch -M main
+git push -u origin main
